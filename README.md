@@ -142,6 +142,6 @@ The analysis script is included in the repository:
 - `alice_three_chapters_analysis.py` — manual sentiment sets  
 - `alice_VADER_analysis.py` — VADER sentiment analysis
 
-Both scripts operate on the three text files in the `/data` directory.
+Both scripts operate on the three text files in the `/texts` directory.
 
 
